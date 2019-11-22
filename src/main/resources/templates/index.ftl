@@ -2,5 +2,5 @@
 
 
 <@c.page>
-
+<div>List of Products</div>
 </@c.page>

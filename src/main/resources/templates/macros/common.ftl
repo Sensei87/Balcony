@@ -6,6 +6,6 @@
     <title>Balclny</title>
 </head>
 <body>
-<h1>Welcome to windows company</h1>
+<#nested >
 </body>
 </#macro>
