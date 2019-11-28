@@ -2,5 +2,6 @@
 
 
 <@c.page>
-<div>List of Products</div>
+<div>Welcome in our Shop</div>
+<a href="main.ftl">List of Products</a>
 </@c.page>
