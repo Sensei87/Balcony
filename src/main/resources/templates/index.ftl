@@ -4,12 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Balclny</title>
+    <link rel="stylesheet" href="">
 </head>
 
 
 <body >
-<@c.page >
+
 <div>Welcome in our Shop</div>
-<a href="main.ftl">List of Products</a>
-</@c.page>
+<a href="product.ftl">List of Products</a>
+
 </body>
